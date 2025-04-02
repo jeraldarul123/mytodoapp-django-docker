@@ -98,3 +98,7 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 📄 License
 This project is open source and available under the MIT License.
+![1742891690008](https://github.com/user-attachments/assets/cf546dae-3ae5-49e3-9efa-23bc72aa887e)
+![1742891689041](https://github.com/user-attachments/assets/5fd57f1f-d030-4c59-90eb-c00c2b26af61)
+![1742891690892](https://github.com/user-attachments/assets/6e1fe855-95cf-4ec4-b577-420b97096539)
+
